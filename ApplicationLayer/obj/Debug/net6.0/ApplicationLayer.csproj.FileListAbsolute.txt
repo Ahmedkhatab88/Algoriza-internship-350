@@ -1,0 +1,60 @@
+C:\Users\DELL\Desktop\برامج المراجعه\DomainLayer\ApplicationLayer\bin\Debug\net6.0\ApplicationLayer.deps.json
+C:\Users\DELL\Desktop\برامج المراجعه\DomainLayer\ApplicationLayer\bin\Debug\net6.0\ApplicationLayer.dll
+C:\Users\DELL\Desktop\برامج المراجعه\DomainLayer\ApplicationLayer\bin\Debug\net6.0\ApplicationLayer.pdb
+C:\Users\DELL\Desktop\برامج المراجعه\DomainLayer\ApplicationLayer\bin\Debug\net6.0\DomainLayer.dll
+C:\Users\DELL\Desktop\برامج المراجعه\DomainLayer\ApplicationLayer\bin\Debug\net6.0\DomainLayer.pdb
+C:\Users\DELL\Desktop\برامج المراجعه\DomainLayer\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\برامج المراجعه\DomainLayer\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\برامج المراجعه\DomainLayer\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\برامج المراجعه\DomainLayer\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.AssemblyInfo.cs
+C:\Users\DELL\Desktop\برامج المراجعه\DomainLayer\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\برامج المراجعه\DomainLayer\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.csproj.CopyComplete
+C:\Users\DELL\Desktop\برامج المراجعه\DomainLayer\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.dll
+C:\Users\DELL\Desktop\برامج المراجعه\DomainLayer\ApplicationLayer\obj\Debug\net6.0\refint\ApplicationLayer.dll
+C:\Users\DELL\Desktop\برامج المراجعه\DomainLayer\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.pdb
+C:\Users\DELL\Desktop\برامج المراجعه\DomainLayer\ApplicationLayer\obj\Debug\net6.0\ref\ApplicationLayer.dll
+C:\Users\DELL\Desktop\Revision\DomainLayer\ApplicationLayer\bin\Debug\net6.0\ApplicationLayer.deps.json
+C:\Users\DELL\Desktop\Revision\DomainLayer\ApplicationLayer\bin\Debug\net6.0\ApplicationLayer.dll
+C:\Users\DELL\Desktop\Revision\DomainLayer\ApplicationLayer\bin\Debug\net6.0\ApplicationLayer.pdb
+C:\Users\DELL\Desktop\Revision\DomainLayer\ApplicationLayer\bin\Debug\net6.0\DomainLayer.dll
+C:\Users\DELL\Desktop\Revision\DomainLayer\ApplicationLayer\bin\Debug\net6.0\DomainLayer.pdb
+C:\Users\DELL\Desktop\Revision\DomainLayer\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Revision\DomainLayer\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Revision\DomainLayer\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Revision\DomainLayer\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Revision\DomainLayer\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Revision\DomainLayer\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.csproj.CopyComplete
+C:\Users\DELL\Desktop\Revision\DomainLayer\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.dll
+C:\Users\DELL\Desktop\Revision\DomainLayer\ApplicationLayer\obj\Debug\net6.0\refint\ApplicationLayer.dll
+C:\Users\DELL\Desktop\Revision\DomainLayer\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.pdb
+C:\Users\DELL\Desktop\Revision\DomainLayer\ApplicationLayer\obj\Debug\net6.0\ref\ApplicationLayer.dll
+C:\Users\DELL\Desktop\lastProject\DomainLayer\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\lastProject\DomainLayer\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\lastProject\DomainLayer\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\lastProject\DomainLayer\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.AssemblyInfo.cs
+C:\Users\DELL\Desktop\lastProject\DomainLayer\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\lastProject\DomainLayer\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.dll
+C:\Users\DELL\Desktop\lastProject\DomainLayer\ApplicationLayer\obj\Debug\net6.0\refint\ApplicationLayer.dll
+C:\Users\DELL\Desktop\lastProject\DomainLayer\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.pdb
+C:\Users\DELL\Desktop\lastProject\DomainLayer\ApplicationLayer\bin\Debug\net6.0\ApplicationLayer.deps.json
+C:\Users\DELL\Desktop\lastProject\DomainLayer\ApplicationLayer\bin\Debug\net6.0\ApplicationLayer.dll
+C:\Users\DELL\Desktop\lastProject\DomainLayer\ApplicationLayer\bin\Debug\net6.0\ApplicationLayer.pdb
+C:\Users\DELL\Desktop\lastProject\DomainLayer\ApplicationLayer\bin\Debug\net6.0\DomainLayer.dll
+C:\Users\DELL\Desktop\lastProject\DomainLayer\ApplicationLayer\bin\Debug\net6.0\DomainLayer.pdb
+C:\Users\DELL\Desktop\lastProject\DomainLayer\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.csproj.CopyComplete
+C:\Users\DELL\Desktop\lastProject\DomainLayer\ApplicationLayer\obj\Debug\net6.0\ref\ApplicationLayer.dll
+C:\Users\DELL\Desktop\lastProject\DomainLayer\src\ApplicationLayer\bin\Debug\net6.0\ApplicationLayer.deps.json
+C:\Users\DELL\Desktop\lastProject\DomainLayer\src\ApplicationLayer\bin\Debug\net6.0\ApplicationLayer.dll
+C:\Users\DELL\Desktop\lastProject\DomainLayer\src\ApplicationLayer\bin\Debug\net6.0\ApplicationLayer.pdb
+C:\Users\DELL\Desktop\lastProject\DomainLayer\src\ApplicationLayer\bin\Debug\net6.0\DomainLayer.dll
+C:\Users\DELL\Desktop\lastProject\DomainLayer\src\ApplicationLayer\bin\Debug\net6.0\DomainLayer.pdb
+C:\Users\DELL\Desktop\lastProject\DomainLayer\src\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\lastProject\DomainLayer\src\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\lastProject\DomainLayer\src\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\lastProject\DomainLayer\src\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.AssemblyInfo.cs
+C:\Users\DELL\Desktop\lastProject\DomainLayer\src\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\lastProject\DomainLayer\src\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.csproj.CopyComplete
+C:\Users\DELL\Desktop\lastProject\DomainLayer\src\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.dll
+C:\Users\DELL\Desktop\lastProject\DomainLayer\src\ApplicationLayer\obj\Debug\net6.0\refint\ApplicationLayer.dll
+C:\Users\DELL\Desktop\lastProject\DomainLayer\src\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.pdb
+C:\Users\DELL\Desktop\lastProject\DomainLayer\src\ApplicationLayer\obj\Debug\net6.0\ref\ApplicationLayer.dll
