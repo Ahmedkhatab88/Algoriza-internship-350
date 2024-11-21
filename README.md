@@ -63,9 +63,3 @@ A robust API developed during the **Algoriza Back-end Development Internship** f
 - **Documentation:** Swagger  
 
 ---
-
-
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/algoriza-internship-yourID/vezeeta-api.git
